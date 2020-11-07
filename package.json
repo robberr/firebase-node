@@ -1,0 +1,23 @@
+{
+  "name": "firebase-node",
+  "version": "1.0.0",
+  "description": "firebase-node",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "",
+    "dev": "nodemon && src/index.js"
+  },
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "admin": "^1.4.1",
+    "express": "^4.17.1",
+    "firebase": "^8.0.1",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
